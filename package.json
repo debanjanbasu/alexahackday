@@ -1,0 +1,26 @@
+{
+  "name": "alexahackday",
+  "version": "1.0.0",
+  "description": "This is the project for alexahackday @ AFR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debanjanbasu/alexahackday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debanjanbasu/alexahackday/issues"
+  },
+  "homepage": "https://github.com/debanjanbasu/alexahackday#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  }
+}
